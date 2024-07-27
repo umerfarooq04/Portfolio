@@ -1,1 +1,1 @@
-It's simple Responsive Portfolio design using html and css.
+It's simple Responsive Portfolio design using html css and javascript.
